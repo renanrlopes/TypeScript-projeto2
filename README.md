@@ -1,1 +1,1 @@
-"# TypeScript-projeto2" 
+# TypeScript-projeto2 
